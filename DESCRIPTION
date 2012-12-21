@@ -1,0 +1,38 @@
+Package: metaDAT
+Type: Package
+Title: Tools for data management in meta analysis
+Version: 0.1.0
+Date: 2012-11-26
+Author: Tyler Rinker <tyler.rinker@gmail.com>, Ariel Aloe <amaloe@gmail.com>
+Maintainer: Tyler Rinker <tyler.rinker@gmail.com>
+Description: Description: An interface between JabRef and R designed to provide
+    a sensible list data structure for data management.  Provides structured
+    data for use with other R meta-analysis packages.
+Depends:
+    R (>= 2.15)
+Imports:
+    RCurl,
+    testthat
+License: GPL-2
+URL: http://bitbucket.org/trinker/metadat
+Collate:
+    'url_dl.R'
+    'metaDAT-package.R'
+    'matrix2vectors.R'
+    'MDapply.R'
+    'MDassign.R'
+    'MDclass.R'
+    'MDexists.R'
+    'MDget.R'
+    'MDlist2matrix.R'
+    'MDnames.R'
+    'MDstr.R'
+    'MDunatten.R'
+    'read.MD.R'
+    'MDmerge.R'
+    'paste2.R'
+    'MD_IRR.R'
+    'MDexclude.R'
+    'MDfishersz.R'
+    'mvdf.R'
+    'MDasycov.R'

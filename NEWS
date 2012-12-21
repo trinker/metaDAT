@@ -1,0 +1,8 @@
+metaDAT 0.1.0
+----------------------------------------------------------------
+
+* The first instalation of the metaDAT package
+* Package designed to integrate jabRef with R for use with 
+  meta-analysis analysis packages.  Designed to be more efficient
+  and reduce errors in storage and structuring of meta-analysis
+  data.

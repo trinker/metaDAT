@@ -1,0 +1,14 @@
+citHeader("To cite metaDAT in publications, please use:")
+
+
+citEntry(entry = "manual",
+    title = "{metaDAT}: {M}eta-analysis data management tool",
+    author = "Tyler W. Rinker and Ariel M. Aloe",
+    organization = "University at Buffalo/SUNY",
+    address = "Buffalo, New York",
+    note = "version 0.1.0",
+    year = "2012",
+    textVersion  = paste("Rinker, T. W. (2012).",
+        "Meta-analysis data management tool.",
+        "version 0.1.0. University at Buffalo. Buffalo, New York.")
+)
