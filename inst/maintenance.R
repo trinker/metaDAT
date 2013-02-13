@@ -16,7 +16,7 @@ path2 <- paste0(path, "/index.html")
 rdme <- "C:/Users/trinker/GitHub/metaDAT/inst/extra_statdoc/readme.R"
 #extras <- qcv(right.just, coleman_liau, flesch_kincaid, fry, 
 #    linsear_write, SMOG, syn, mgsub, adjmat, wc, wfdf, mcsv_w)
-expand_statdoc(path2, readme = rdme)
+readme_statdoc(path2, readme = rdme, file = path2)
 
 #STEP 3: move to trinker.guthub
 file <- "C:/Users/trinker/GitHub/trinker.github.com/"
@@ -41,7 +41,7 @@ path2 <- paste0(path, "/index.html")
 rdme <- "C:/Users/trinker/GitHub/metaDAT/inst/extra_statdoc/readme.R"
 #extras <- qcv(right.just, coleman_liau, flesch_kincaid, fry, 
 #    linsear_write, SMOG, syn, mgsub, adjmat, wc, wfdf, mcsv_w)
-expand_statdoc(path2, readme = rdme)
+readme_statdoc(path2, readme = rdme, path2)
 
 #STEP 3: move to trinker.guthub
 file <- "C:/Users/trinker/GitHub/trinker.github.com/"

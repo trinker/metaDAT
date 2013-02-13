@@ -18,6 +18,9 @@ install_github(&quot;metaDAT&quot;, &quot;trinker&quot;)
 install.packages(&quot;RCurl&quot;, contriburl = URL)
 </code></pre>
 
+<p>Download the development version of metaDAT <a href="https://github.com/trinker/metaDAT/">here</a> 
+
+
 <h2>Installing JabRef</h2>
 
 <p><a href="http://trinker.github.com/metaDAT/">metaDAT</a> utilizes 
@@ -27,4 +30,3 @@ user interface for data entry.  You will need to install a working copy from:</p
 <p><a href="http://sourceforge.net/projects/jabref/files/jabref/2.9.2/">http://sourceforge.net/projects/jabref/files/jabref/2.9.2/</a></p>
 
 
-<p>Download the development version of metaDAT <a href="https://github.com/trinker/metaDAT/">here</a> 
