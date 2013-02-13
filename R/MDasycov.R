@@ -65,7 +65,7 @@
 #' @seealso
 #' \code{\link[metaDAT]{MDfishersz}},
 #' \code{\link[metaDAT]{MDunatten}},
-#' \code{mvmeta}
+#' \code{\link[mvmeta]{mvmeta}}
 #' @export
 #' @examples
 #' #generating data sets
