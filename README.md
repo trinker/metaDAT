@@ -23,6 +23,13 @@ Windows users currently must install `RCurl` before installing metaDAT.  Use the
 URL <- "http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/2.15/"
 install.packages("RCurl", contriburl = URL)
 ```
+## Installing JabRef
+
+[metaDAT](http://trinker.github.com/metaDAT/) utilizes 
+[JabRef](http://jabref.sourceforge.net/) as a graphical 
+user interface for data entry.  You will need to install a working copy from:
+
+[http://sourceforge.net/projects/jabref/files/jabref/2.9.2/](http://sourceforge.net/projects/jabref/files/jabref/2.9.2/)
 
 ## Help
 The qdap web page: [trinker.github.com/metaDAT](http://trinker.github.com/metaDAT/)  [improvements to come]    

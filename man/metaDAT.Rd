@@ -3,7 +3,8 @@
 \alias{metaDAT}
 \alias{metaDAT-package}
 \alias{package-metaDAT}
-\title{metaDAT: Tools for Data Management in Meta-Analysis}
+\title{metaDAT: Tools for data management, reshaping and basic transformations in
+meta-analysis}
 \description{
   metaDAT is intended to provide a frame work for meta
   analysis that uses a list structure rather than the

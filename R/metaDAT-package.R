@@ -1,4 +1,5 @@
-#' metaDAT: Tools for Data Management in Meta-Analysis
+#' metaDAT: Tools for data management, reshaping and basic transformations in 
+#' meta-analysis
 #'
 #' metaDAT is intended to provide a frame work for meta analysis that 
 #' uses a list structure rather than the traditional dataframe data storage.  In a 
