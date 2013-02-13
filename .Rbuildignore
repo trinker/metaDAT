@@ -1,0 +1,10 @@
+^\.Rproj\.user$
+^.*\.Rproj$
+.Rbuildignore
+.gitignore
+.gitattributes
+tools.R
+metaDAT.Rproj
+staticdocs
+maintenance.R
+extra_statdoc
