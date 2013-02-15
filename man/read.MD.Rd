@@ -3,7 +3,7 @@
 \alias{.exclvars}
 \alias{read.MD}
 \title{Read in Meta Analysis Data}
-\format{chr [1:16] "title" "publisher" "shorttitle" "volume" "number" ...}
+\format{chr [1:16] "title" "publisher" "shorttitle" "volume" "number" "pages" "month" "note" "crossref" "keywords" "file" "doi" "url" "comment" ...}
 \usage{
   read.MD(file, entry.name = "@META", out.file = NULL,
     rm.coder = FALSE, rm.timestamp = TRUE,
