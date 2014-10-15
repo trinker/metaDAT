@@ -13,8 +13,7 @@ You can, however, download the [zip ball](https://github.com/trinker/metaDAT) or
 ```r
 # install.packages("devtools")
 
-library(devtools)
-install_github("metaDAT", "trinker")
+devtools::install_github("trinker/metaDAT")
 ```
 
 ## Installing JabRef
