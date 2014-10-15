@@ -17,12 +17,6 @@ library(devtools)
 install_github("metaDAT", "trinker")
 ```
 
-Windows users currently must install `RCurl` before installing metaDAT.  Use the following short script:
-
-```r
-URL <- "http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/2.15/"
-install.packages("RCurl", contriburl = URL)
-```
 ## Installing JabRef
 
 [metaDAT](http://trinker.github.com/metaDAT/) utilizes 
