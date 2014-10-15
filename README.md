@@ -32,6 +32,6 @@ user interface for data entry.  You will need to install a working copy from:
 [http://sourceforge.net/projects/jabref/files/jabref/2.9.2/](http://sourceforge.net/projects/jabref/files/jabref/2.9.2/)
 
 ## Help
-The qdap web page: [trinker.github.com/metaDAT](http://trinker.github.com/metaDAT/)  [improvements to come]    
+The `metaDAT` web page: [trinker.github.com/metaDAT](http://trinker.github.com/metaDAT/)  [improvements to come]    
 For the package pdf help manual [click here](https://dl.dropbox.com/u/61803503/metaDAT.pdf).
 
